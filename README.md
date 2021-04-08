@@ -37,10 +37,10 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.deepakranjan.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/deepak-ranjan-876aa194 "><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href=""><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
-<a href=""><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.deepakranjan.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.deepakranjan.com-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/deepak-ranjan-876aa194 "><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Deepak%20Ranjan-blue?style=flat-square&logo=linkedin"></a>
+<a href=""><img alt="Instagram" src="https://img.shields.io/badge/Instagram-ranjan_1097-blue?style=flat-square&logo=instagram"></a>
+<a href=""><img alt="Email" src="https://img.shields.io/badge/Email-rranjan306@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
-⭐️ From [AVS1508](https://github.com/AVS1508)
+⭐️ From [rranjan306](https://github.com/rranjan306)
