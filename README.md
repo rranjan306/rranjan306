@@ -27,7 +27,7 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 <br/>
 
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/rranjan306">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rranjan306&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rranjan306&theme=buefy&layout=compact" />
 </a>
